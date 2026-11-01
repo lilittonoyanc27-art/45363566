@@ -1,0 +1,6 @@
+{
+  "name": "Քերականական վերլուծություն & Իսպաներեն Գրականություն — Análisis Morfológico y Literatura",
+  "description": "Իսպաներեն լեզվի և գրականության ինտերակտիվ ուսուցման հավելված հայերեն թարգմանություններով, ձևաբանական վերլուծությամբ և 100 քննական հարցերով։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
